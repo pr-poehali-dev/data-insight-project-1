@@ -1,7 +1,7 @@
-import { Hero } from "@/components/Hero";
-import { Features } from "@/components/Features";
-import { Notifications } from "@/components/Notifications";
-import { Widget } from "@/components/Widget";
+import { Hero } from "@/components/webapp/Hero";
+import { Features } from "@/components/webapp/Features";
+import { Notifications } from "@/components/webapp/Notifications";
+import { Widget } from "@/components/webapp/Widget";
 
 export default function Index() {
   return (
